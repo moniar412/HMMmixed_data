@@ -12,4 +12,4 @@ The files shall be run in MatLab.
 
 ## License
 
-MIT (see `LICENSE`), except for third-party files, which keep their original authorship: `bvnlr.m` (Alan Genz) and `cov2corr.m` (Kevin Sheppard).
+All rights reserved (see `LICENSE`). The code is made available only to allow the reproduction of the results of the paper; any other use requires the written consent of the authors. Third-party files keep their original authorship: `bvnlr.m` (Alan Genz) and `cov2corr.m` (Kevin Sheppard).
