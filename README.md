@@ -9,3 +9,7 @@ In order to reproduce a simulation study one can use files: simula.m.
 The main functions are mixhetmixed.m, mixhetmixedN.m and mixhetgaus3.m for fitting HMM with reduction, HMM and HMM for continuous data without reduction, respectively.
 
 The files shall be run in MatLab.
+
+## License
+
+MIT (see `LICENSE`), except for third-party files, which keep their original authorship: `bvnlr.m` (Alan Genz) and `cov2corr.m` (Kevin Sheppard).
